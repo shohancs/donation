@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+/* Header-section Css Code Start */
+.header-section{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),url(../images/23040340.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 76px 85px;
+}
+.header-body{
+    text-align: center;
+    color: #fff;
+    padding-bottom: 51px;
+}
+.header-body h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 73px;
+}
+.header-body p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    padding-bottom: 42px;
+}
+.donate_btn{
+    color:#fff;
+    background-color:#FF5959;
+    padding:15px 30px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 5px;
+}
+/* Header-section Css Code End */
