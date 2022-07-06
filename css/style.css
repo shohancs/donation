@@ -92,5 +92,34 @@ body{
 /* Donate-section Css Code End */
 
 /* Donate-plan Css Code Start */
-
+.donation-plan{
+    padding: 0;
+}
+.food-plan {
+    display: flex;
+    padding: 40px 78px 40px 39px;
+}
+.plan {
+    margin-left: 3%;
+    width: 100%;
+    padding: 40px;
+    border-radius: 6px;
+}
+.plan h3{
+    font-family: 'Poppins', sans-serif;
+}
+.plan p{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+#f-one{
+    background-color: #EDF5F6;
+}
+#f-two{
+    background-color: #FFEEEE;
+}
+#f-three{
+    background-color: #FFF4D6;
+}
 /* Donate-plan Css Code End */
