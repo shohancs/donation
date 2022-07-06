@@ -48,7 +48,28 @@ body{
     font-family: 'Poppins', sans-serif;
     color: gray;
 }
-.donate-pay{
+.donate-pay {
     display: flex;
+    padding: 45px 132px;
+}
+.amount {
+    font-size: 30px;
+    font-weight: 600;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    padding: 42px;
+    margin-left: 3%;
+    border-radius: 5px;
+    background: ghostwhite;
+}
+#taka{
+    font-size: 30px;
+    font-weight: 600;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid #FF5959;
+    padding: 42px;
+    margin-left: 3%;
 }
 /* Donate-section Css Code End */
