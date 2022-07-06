@@ -123,3 +123,48 @@ body{
     background-color: #FFF4D6;
 }
 /* Donate-plan Css Code End */
+
+/* Fund-section css code start */
+.fund-heading{
+    text-align: center;
+    padding-bottom: 61px;
+}
+.fund-heading h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+.fund-heading p{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+.fund-create-one, .fund-create-two, .fund-create-three{
+    display: flex;
+    padding: 0 13%;
+}
+.create{
+    padding: 10px;
+}
+.create span {
+    background-color: #FF5959;
+    padding: 9px 13px;
+    color: #fff;
+    border-radius: 5px;
+}
+.create h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+}
+.create h4{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.create p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: gray;
+    text-align: justify;
+}
+.f-image img{
+    width: 100%;
+}
+/* Fund-section css code End */
