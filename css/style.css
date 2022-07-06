@@ -27,15 +27,19 @@ body{
 .donate_btn{
     color:#fff;
     background-color:#FF5959;
-    padding:15px 30px;
+    padding:16px 32px;
     font-size: 18px;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     border-radius: 5px;
+    border: 0;
 }
 /* Header-section Css Code End */
 
 /* Donate-section Css Code Start */
+.donation-section{
+    padding: 70px 0px;
+}
 .donate-heading{
     text-align: center;
 }
@@ -71,5 +75,18 @@ body{
     border: 2px solid #FF5959;
     padding: 42px;
     margin-left: 3%;
+}
+.donation-form{
+    text-align: center;
+    padding: 3% 0;
+}
+.form-control {
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 50%;
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    margin-bottom: 20px;
 }
 /* Donate-section Css Code End */
