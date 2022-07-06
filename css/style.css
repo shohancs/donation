@@ -36,6 +36,18 @@ body{
 /* Header-section Css Code End */
 
 /* Donate-section Css Code Start */
+.donate-heading{
+    text-align: center;
+}
+.donate-heading h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+}
+.donate-heading p{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
 .donate-pay{
     display: flex;
 }
