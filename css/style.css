@@ -36,5 +36,7 @@ body{
 /* Header-section Css Code End */
 
 /* Donate-section Css Code Start */
-
+.donate-pay{
+    display: flex;
+}
 /* Donate-section Css Code End */
